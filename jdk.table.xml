@@ -1,0 +1,224 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 3.6" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.3" />
+      <homePath value="$USER_HOME$/anaconda3/bin/python3.6" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/anaconda3/lib/python3.6" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/lib/python3.6/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/lib/python3.6/site-packages/Mako-1.0.7-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/lib/python3.6/site-packages/Sphinx-1.5.6-py3.6.egg" type="simple" />
+            <root url="jar://$USER_HOME$/anaconda3/lib/python3.6/site-packages/setuptools-27.2.0-py3.6.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2017.3/system/python_stubs/-65344456" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5 (Analysis-1Feb18)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.2" />
+      <homePath value="/2015/mahendra/Documents/NovartisProject2018/Analysis-1Feb18/venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///2015/mahendra/Documents/NovartisProject2018/Analysis-1Feb18/venv/lib/python3.5" type="simple" />
+            <root url="file:///2015/mahendra/Documents/NovartisProject2018/Analysis-1Feb18/venv/lib/python3.5/plat-x86_64-linux-gnu" type="simple" />
+            <root url="file:///2015/mahendra/Documents/NovartisProject2018/Analysis-1Feb18/venv/lib/python3.5/lib-dynload" type="simple" />
+            <root url="file:///usr/lib/python3.5" type="simple" />
+            <root url="file:///usr/lib/python3.5/plat-x86_64-linux-gnu" type="simple" />
+            <root url="file:///2015/mahendra/Documents/NovartisProject2018/Analysis-1Feb18/venv/lib/python3.5/site-packages" type="simple" />
+            <root url="file:///usr/local/lib/python3.5/dist-packages" type="simple" />
+            <root url="file:///usr/lib/python3/dist-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2017.3/system/python_stubs/-1765172516" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="/2015/mahendra/Documents/NovartisProject2018/Analysis-1Feb18" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5 (untitled)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.2" />
+      <homePath value="/2015/mahendra/Documents/NovartisProject2018/untitled/venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///2015/mahendra/Documents/NovartisProject2018/untitled/venv/lib/python3.5" type="simple" />
+            <root url="file:///2015/mahendra/Documents/NovartisProject2018/untitled/venv/lib/python3.5/plat-x86_64-linux-gnu" type="simple" />
+            <root url="file:///2015/mahendra/Documents/NovartisProject2018/untitled/venv/lib/python3.5/lib-dynload" type="simple" />
+            <root url="file:///usr/lib/python3.5" type="simple" />
+            <root url="file:///usr/lib/python3.5/plat-x86_64-linux-gnu" type="simple" />
+            <root url="file:///2015/mahendra/Documents/NovartisProject2018/untitled/venv/lib/python3.5/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2017.3/system/python_stubs/2143450413" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="/2015/mahendra/Documents/NovartisProject2018/untitled" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5 (untitled1)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.2" />
+      <homePath value="/2015/mahendra/Documents/NovartisProject2018/untitled1/venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///2015/mahendra/Documents/NovartisProject2018/untitled1/venv/lib/python3.5" type="simple" />
+            <root url="file:///2015/mahendra/Documents/NovartisProject2018/untitled1/venv/lib/python3.5/plat-x86_64-linux-gnu" type="simple" />
+            <root url="file:///2015/mahendra/Documents/NovartisProject2018/untitled1/venv/lib/python3.5/lib-dynload" type="simple" />
+            <root url="file:///usr/lib/python3.5" type="simple" />
+            <root url="file:///usr/lib/python3.5/plat-x86_64-linux-gnu" type="simple" />
+            <root url="file:///2015/mahendra/Documents/NovartisProject2018/untitled1/venv/lib/python3.5/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2017.3/system/python_stubs/358307678" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5 (NovartisProcessing1)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.2" />
+      <homePath value="/2015/mahendra/Documents/NovartisProject2018/Analysis-1Feb18/NovartisProcessing1/venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///2015/mahendra/Documents/NovartisProject2018/Analysis-1Feb18/NovartisProcessing1/venv/lib/python3.5" type="simple" />
+            <root url="file:///2015/mahendra/Documents/NovartisProject2018/Analysis-1Feb18/NovartisProcessing1/venv/lib/python3.5/plat-x86_64-linux-gnu" type="simple" />
+            <root url="file:///2015/mahendra/Documents/NovartisProject2018/Analysis-1Feb18/NovartisProcessing1/venv/lib/python3.5/lib-dynload" type="simple" />
+            <root url="file:///usr/lib/python3.5" type="simple" />
+            <root url="file:///usr/lib/python3.5/plat-x86_64-linux-gnu" type="simple" />
+            <root url="file:///2015/mahendra/Documents/NovartisProject2018/Analysis-1Feb18/NovartisProcessing1/venv/lib/python3.5/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2017.3/system/python_stubs/586641907" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="/2015/mahendra/Documents/NovartisProject2018/Analysis-1Feb18/NovartisProcessing1" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5 (holefilers)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.2" />
+      <homePath value="/2015/mahendra/Documents/NovartisProject2018/Analysis-1Feb18/holefilers/venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///2015/mahendra/Documents/NovartisProject2018/Analysis-1Feb18/holefilers/venv/lib/python3.5" type="simple" />
+            <root url="file:///2015/mahendra/Documents/NovartisProject2018/Analysis-1Feb18/holefilers/venv/lib/python3.5/plat-x86_64-linux-gnu" type="simple" />
+            <root url="file:///2015/mahendra/Documents/NovartisProject2018/Analysis-1Feb18/holefilers/venv/lib/python3.5/lib-dynload" type="simple" />
+            <root url="file:///usr/lib/python3.5" type="simple" />
+            <root url="file:///usr/lib/python3.5/plat-x86_64-linux-gnu" type="simple" />
+            <root url="file:///2015/mahendra/Documents/NovartisProject2018/Analysis-1Feb18/holefilers/venv/lib/python3.5/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2017.3/system/python_stubs/932811530" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="/2015/mahendra/Documents/NovartisProject2018/Analysis-1Feb18/holefilers" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5 (DeepNeuralNetFromScratch)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.2" />
+      <homePath value="/2015/mahendra/Documents/NovartisProject2018/Analysis-1Feb18/DeepNeuralNetFromScratch/venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///2015/mahendra/Documents/NovartisProject2018/Analysis-1Feb18/DeepNeuralNetFromScratch/venv/lib/python3.5" type="simple" />
+            <root url="file:///2015/mahendra/Documents/NovartisProject2018/Analysis-1Feb18/DeepNeuralNetFromScratch/venv/lib/python3.5/plat-x86_64-linux-gnu" type="simple" />
+            <root url="file:///2015/mahendra/Documents/NovartisProject2018/Analysis-1Feb18/DeepNeuralNetFromScratch/venv/lib/python3.5/lib-dynload" type="simple" />
+            <root url="file:///usr/lib/python3.5" type="simple" />
+            <root url="file:///usr/lib/python3.5/plat-x86_64-linux-gnu" type="simple" />
+            <root url="file:///2015/mahendra/Documents/NovartisProject2018/Analysis-1Feb18/DeepNeuralNetFromScratch/venv/lib/python3.5/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2017.3/system/python_stubs/-1492405141" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="/2015/mahendra/Documents/NovartisProject2018/Analysis-1Feb18/DeepNeuralNetFromScratch" />
+    </jdk>
+  </component>
+</application>
